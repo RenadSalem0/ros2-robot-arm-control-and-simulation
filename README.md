@@ -1,5 +1,4 @@
-
-# 🤖 Robot Arm Simulation using ROS 2, MoveIt 2, and Gazebo
+# 🤖# Robot Arm Control with Joint State Publisher GUI and MoveIt + Gazebo (ROS 2)
 
 This project demonstrates a simulated robot arm built with ROS 2 Humble. It includes two main parts:
 
