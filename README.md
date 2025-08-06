@@ -39,7 +39,7 @@ This command launches RViz2 with the robot model and opens a GUI to manually cha
 
 | Joint GUI | RViz2 |
 |----------|-------|
-| ![Joint GUI](images/joint_gui.png) | ![RViz Output](images/rviz_arm.png) |
+| ![Joint GUI](Screenshot22.png) | ![RViz Output](Screenshot11.png) |
 
 ---
 
@@ -85,7 +85,7 @@ ros2 launch arduinobot_controller demo.launch.py
 
 | Gazebo | MoveIt in RViz |
 |--------|----------------|
-| ![Gazebo](images/gazebo.png) | ![MoveIt RViz](images/moveit_gui.png) |
+| ![Gazebo](Screenshot4.png) | ![MoveIt RViz](Screenshot3.png) |
 
 ---
 
